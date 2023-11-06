@@ -4,9 +4,10 @@ body {
 #banner {
     width: 100%;
 }
-.principal 
+.principal {
+background: #cccccc;
+padding: 30px;
 p { 
-    text-align: center;
     text-align: center;
 }
 em strong {
